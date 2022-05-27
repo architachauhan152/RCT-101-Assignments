@@ -1,0 +1,20 @@
+.result{
+    display:flex;
+    background-color: rgb(255,255,255);
+    height:80px;
+    width:550px;
+    align-items: center;
+    justify-content: space-around;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 10px;
+    margin-left: 60px;
+    
+}
+.value{
+    font-size: 50px;
+    align-items: center;
+}
+.overflow{
+    overflow-y: scroll;
+}

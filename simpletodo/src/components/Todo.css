@@ -1,0 +1,31 @@
+.output-div{
+    background-color: rgb(206,206,206);
+    border:1px solid red;
+    height:600px;
+    width:700px;
+    margin:auto;
+    overflow-y: scroll;
+}
+.input-button{
+    padding-top: 100px;
+    
+
+}
+input{
+    background-color: rgb(255,255,255);
+    font-size: 25px;
+    height:60px;
+    width:400px;
+    border-radius: 20px;
+    border:none;
+}
+.btn{
+    margin-left: 50px;
+    font-size: 40px;
+    width:120px;
+    height:70px;
+    border-radius: 100%;
+    background-color: rgb(255,255,255);
+    border:none;
+    cursor: pointer;
+}
