@@ -1,0 +1,59 @@
+.amazon{
+    
+    width:550px;
+    height:350px;
+    margin:auto;
+   
+}
+.date-logo{
+    display:flex;
+    
+}
+.date-logo:nth-child(1){
+    margin-left: 30px;
+}
+.logo{
+    margin-left: 280px;
+}
+.date-logo{
+    padding-top: 40px;
+}
+.boxone{
+    margin-left: 30px;
+    
+    
+}
+.boxone>div{
+    margin-top: 10px;
+}
+.case{
+    background-color: black;
+    color:white;
+    width:100px;
+    height:35px;
+    padding-top:10px;
+    padding-left: 15px;
+}
+.gift{
+    font-size: 30px;
+    font-weight: bold;
+}
+img{
+    height:60px;
+}
+.boxtwo{
+    display:flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+.boxtwo>div{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.device{
+    margin-left: 30px;
+}
+.arrow{
+    margin-left: 280px;
+}
