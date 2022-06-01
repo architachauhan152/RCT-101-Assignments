@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "restaurent_name": "Jayeka Dhaba",
+      "picture_url": "https://images.indianexpress.com/2021/04/indian-food-1200.jpg",
+      "cost": 123,
+      "payment_method": "cash",
+      "vote": "454",
+      "review": "65",
+      "rating": "4.3",
+      "category": "Indian",
+      "id": 1
+    },
+    {
+      "restaurent_name": "urd dhaba",
+      "picture_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKYbewWV6xy98lOs26t34uJKK8HG9bawzyMAyCCXDDYhMmaPUHfr8JZWoa-PlkSlACkw&usqp=CAU",
+      "cost": 145,
+      "payment_method": "online",
+      "vote": "1244",
+      "review": "96",
+      "rating": "4.8",
+      "category": "Italian",
+      "id": 2
+    },
+    {
+      "restaurent_name": "Chinease Rest",
+      "picture_url": "https://assets.architecturaldigest.in/photos/60084f361b516d492c3ab3ec/16:9/w_2560%2Cc_limit/Mumbai-restaurant-COVID-19-1366x768.jpg",
+      "cost": 88,
+      "payment_method": "online",
+      "vote": "546",
+      "review": "345",
+      "rating": "5",
+      "category": "Chinease",
+      "id": 3
+    },
+    {
+      "restaurent_name": "Itak reh Res",
+      "picture_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbMs-SdGMOWVYnAZ4RnlfzWy-5JEXNozr0A&usqp=CAU",
+      "cost": 64,
+      "payment_method": "online",
+      "vote": "343",
+      "review": "786",
+      "rating": "4",
+      "category": "American",
+      "id": 4
+    },
+    {
+      "restaurent_name": "French Itkali",
+      "picture_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtazpMJP-2_A9ylXmaROYEMrxFhEIURd9_TA&usqp=CAU",
+      "cost": 12,
+      "payment_method": "cash",
+      "vote": "976",
+      "review": "675",
+      "rating": "1",
+      "category": "Italian",
+      "id": 5
+    },
+    {
+      "restaurent_name": "Italian efyly",
+      "picture_url": "https://cdn.britannica.com/67/154467-131-8E13B7BD/Cajun-dish.jpg",
+      "cost": 41,
+      "payment_method": "online",
+      "vote": "564",
+      "review": "234",
+      "rating": "3",
+      "category": "Italian",
+      "id": 6
+    },
+    {
+      "restaurent_name": "monark",
+      "picture_url": "https://tse4.mm.bing.net/th?id=OIP.j3uYsrDvDgb3iLXvx1kcDgHaGh&pid=Api&P=0&w=180&h=159",
+      "cost": "455",
+      "payment_method": "cash",
+      "vote": "789",
+      "review": "800",
+      "rating": "4",
+      "category": "Indian",
+      "id": 7
+    }
+  ]
+}
