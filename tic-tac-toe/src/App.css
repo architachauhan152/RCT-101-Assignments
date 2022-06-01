@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  background-color: #123;
+
+}
+.board {
+  background-color: teal;
+
+  width: 30vw;
+  height: 30vh;
+  margin:20vh auto;
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-template-rows: repeat(3,1fr);
+}
+.square{
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 28px;
+}
+.square:hover{
+  /* background-color: rgb(189, 187, 187); */
+  cursor: pointer;
+}
+.btn-div{
+  font-size: 18px;
+ align-items: center;
+ /* border: 1px solid red; */
+display: flex;
+justify-content: center;
+}
+button{
+  font-size: 18px;
+  padding: 10px 20px;
+}
