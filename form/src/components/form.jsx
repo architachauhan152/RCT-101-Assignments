@@ -16,13 +16,13 @@ export const Form = () => {
     fetch(`http://localhost:8080/user`)
       .then((d) => d.json())
       .then((data) => {
-        // console.log(data)
+        
         setData1(data);
       });
   };
   getdata();
 
-  // console.log(data1);
+  
 
   const handelChange = (e) => {
     const { id, value } = e.target;
@@ -34,7 +34,7 @@ export const Form = () => {
 
   const handelsubmite = (e) => {
     e.preventDefault();
-    // console.log(formState)
+    
 
     fetch("http://localhost:8080/user", {
       method: "POST",
