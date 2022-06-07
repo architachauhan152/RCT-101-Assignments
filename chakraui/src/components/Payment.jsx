@@ -11,7 +11,7 @@ export default function Payment() {
       height: "500px",
       width: "400px",
       padding: "5px",
-      marginTop:"145px"
+      marginTop:"145cdpx"
       
       
     }}>
