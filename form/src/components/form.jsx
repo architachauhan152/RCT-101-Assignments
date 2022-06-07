@@ -76,7 +76,7 @@ export const Form = () => {
         <br></br>
         <br></br>
 
-        <input
+        <input 
           onChange={handelChange}
           value={formState.adress}
           type="text"
